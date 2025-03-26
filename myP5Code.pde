@@ -49,7 +49,7 @@ w+=50;}
 
 var f = 0;
 while (f<400){
-fill(0,0,(random(255)));
+fill(0,0,(random(200,255)));
 rect(f,420,60,60);
 f+=50;}
 
